@@ -21,3 +21,4 @@ If you require any assistance or support, feel free to let us know. Join our Sla
 - Django Imagine Book Store Api by @mtami. [Link](https://github.com/mtami/imagine_book_store_api).
 - Imagine Book Store API Laravel Framework by @Somar. [link](https://github.com/somarkn99/imagine_book_store_api).
 - Imagine Book Store API with Laravel by @AbdulazizDablo. [link](https://github.com/abdulazizdablo/imagine_book_store_api).
+- Imagine Todo API using Rust by @cosmasken. [Link](https://github.com/cosmasken/imagine-todo-api).
