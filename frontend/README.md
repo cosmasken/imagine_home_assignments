@@ -16,3 +16,4 @@ If you require any assistance or support, feel free to let us know. Join our Sla
 ## Participation list
 
 - Movies app by [@hobaDevHome](https://github.com/hobaDevHome) - [Github Link](https://github.com/hobaDevHome/moviesApp) - [Live Link](https://movisearchapp.netlify.app/).
+- Weather App by [@cosmasken](https://github.com/cosmasken) - [Github Link](https://github.com/cosmasken/coding-weather) - [Live Link](https://coding-weather-jkk4.vercel.app/)
